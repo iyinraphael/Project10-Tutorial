@@ -13,6 +13,7 @@
 		EBE5EA6A26A9E10300996A6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBE5EA6826A9E10300996A6F /* Main.storyboard */; };
 		EBE5EA6C26A9E10400996A6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBE5EA6B26A9E10400996A6F /* Assets.xcassets */; };
 		EBE5EA6F26A9E10400996A6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBE5EA6D26A9E10400996A6F /* LaunchScreen.storyboard */; };
+		EBE5EA7C26A9ECF000996A6F /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBE5EA7B26A9ECF000996A6F /* PersonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EBE5EA6B26A9E10400996A6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBE5EA6E26A9E10400996A6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EBE5EA7026A9E10400996A6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBE5EA7B26A9ECF000996A6F /* PersonCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PersonCell.swift; path = ../../../../.Trash/PersonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				EBE5EA6226A9E10300996A6F /* AppDelegate.swift */,
 				EBE5EA6426A9E10300996A6F /* SceneDelegate.swift */,
+				EBE5EA7B26A9ECF000996A6F /* PersonCell.swift */,
 				EBE5EA6626A9E10300996A6F /* ViewController.swift */,
 				EBE5EA6826A9E10300996A6F /* Main.storyboard */,
 				EBE5EA6B26A9E10400996A6F /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				EBE5EA6726A9E10300996A6F /* ViewController.swift in Sources */,
 				EBE5EA6326A9E10300996A6F /* AppDelegate.swift in Sources */,
+				EBE5EA7C26A9ECF000996A6F /* PersonCell.swift in Sources */,
 				EBE5EA6526A9E10300996A6F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
